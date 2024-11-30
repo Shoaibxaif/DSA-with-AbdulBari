@@ -68,8 +68,8 @@ All topics and implementations are based on **Abdul Bari's DSA course**, renowne
 | Before we Start                             | ✅ Completed   |
 | Essential C and C++ Concepts                | ✅ Completed    |
 | Required Setup for Programming              | ✅ Completed    |
-| Introduction                                | 🟩 Ongoing     |
-| Recursion                                   | ⬜ Pending     |
+| Introduction                                | ✅ Completed     |
+| Recursion                                   | 🟩 Ongoing    |
 | Arrays Representations                      | ⬜ Pending     |
 | Array ADT                                   | ⬜ Pending     |
 | Strings                                     | ⬜ Pending     |
