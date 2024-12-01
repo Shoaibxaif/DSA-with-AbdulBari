@@ -38,8 +38,8 @@ The repository is organized topic-wise, with each topic having its own folder co
 ### Example Structure:
 ```plaintext
 |-- Topic Name/
-    |-- Code/
-    |-- Notes.md (if applicable)
+    |-- Code
+    |-- Notes.md
 ```
 
 
