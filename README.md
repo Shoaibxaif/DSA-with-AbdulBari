@@ -1,6 +1,6 @@
 # DSA Journey with Abdul Bari 🚀
 
-Welcome to my **Data Structures and Algorithms (DSA)** repository!  
+Welcome to my **Data Structures and Algorithms (DSA)** repository!!!
 This repository documents my journey to master DSA under the guidance of the GOAT of DSA, **Abdul Bari**. I will regularly update this repository with my C++ implementations and solutions for the topics covered.
 
 ## 🗂️ Topics Covered
