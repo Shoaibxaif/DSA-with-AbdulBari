@@ -101,5 +101,5 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 If you have any queries or suggestions, feel free to reach out:  
 📧 **Email:** mohammadshoaib7221@gmail.com  
 
-Let's dive deep into the world of **DSA** and master it together! 🚀
+Let's dive deep into the world of **DSA** and master it together! 
 
