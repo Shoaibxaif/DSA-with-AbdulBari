@@ -58,7 +58,7 @@ The repository is organized topic-wise, with each topic having its own folder co
 
 ## 📖 Learning Source
 
-All topics and implementations are based on **Abdul Bari's DSA course**, renowned for its clear explanations and practical examples.
+All topics and implementations are based on **Abdul Bari's DSA course**, renowned for its clear explanations and practical examples..
 
 
 ## 🏁 Progress Tracker
