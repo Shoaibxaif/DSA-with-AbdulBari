@@ -1,6 +1,6 @@
 # DSA Journey with Abdul Bari 🚀
 
-Welcome to my **Data Structures and Algorithms (DSA)** repository!  
+Welcome to my **Data Structures and Algorithms (DSA)** repository!!!
 This repository documents my journey to master DSA under the guidance of the GOAT of DSA, **Abdul Bari**. I will regularly update this repository with my C++ implementations and solutions for the topics covered.
 
 ## 🗂️ Topics Covered
@@ -38,8 +38,8 @@ The repository is organized topic-wise, with each topic having its own folder co
 ### Example Structure:
 ```plaintext
 |-- Topic Name/
-    |-- Code/
-    |-- Notes.md (if applicable)
+    |-- Code
+    |-- Notes.md
 ```
 
 
@@ -58,7 +58,7 @@ The repository is organized topic-wise, with each topic having its own folder co
 
 ## 📖 Learning Source
 
-All topics and implementations are based on **Abdul Bari's DSA course**, renowned for its clear explanations and practical examples.
+All topics and implementations are based on **Abdul Bari's DSA course**, renowned for its clear explanations and practical examples..
 
 
 ## 🏁 Progress Tracker
@@ -68,8 +68,8 @@ All topics and implementations are based on **Abdul Bari's DSA course**, renowne
 | Before we Start                             | ✅ Completed   |
 | Essential C and C++ Concepts                | ✅ Completed    |
 | Required Setup for Programming              | ✅ Completed    |
-| Introduction                                | 🟩 Ongoing     |
-| Recursion                                   | ⬜ Pending     |
+| Introduction                                | ✅ Completed     |
+| Recursion                                   | 🟩 Ongoing    |
 | Arrays Representations                      | ⬜ Pending     |
 | Array ADT                                   | ⬜ Pending     |
 | Strings                                     | ⬜ Pending     |
@@ -92,7 +92,7 @@ All topics and implementations are based on **Abdul Bari's DSA course**, renowne
 
 ## 🤝 Contributions
 
-This is a personal project, but suggestions and discussions are always welcome!  
+This is a personal project, but suggestions and discussions are always welcome !!
 Feel free to fork this repository, make improvements, and submit a pull request.
 
 
@@ -101,5 +101,5 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 If you have any queries or suggestions, feel free to reach out:  
 📧 **Email:** mohammadshoaib7221@gmail.com  
 
-Let's dive deep into the world of **DSA** and master it together! 🚀
+Let's dive deep into the world of **DSA** and master it together! 
 
